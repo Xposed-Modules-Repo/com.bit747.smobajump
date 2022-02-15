@@ -7,3 +7,5 @@
 
 ## 下载
 [Release](https://github.com/Xposed-Modules-Repo/com.bit747.smobajump/releases)
+
+开放代码[源码](https://github.com/Thiasap/smobajump)
